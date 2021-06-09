@@ -8,7 +8,7 @@ In this assignment, data is wrangled to analyse for a recent fantasy game called
 * Pandas
 * Numpy
 
-## Analysss 
+## Analysis 
 
 The final report includes each of the following:
 
